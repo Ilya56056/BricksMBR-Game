@@ -1,3 +1,1 @@
-- Press Left Shift to start the game
-- Press Left Ctrl to move the paddle to the left
-- Press Left Alt to move the paddle to the right
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=21&pause=1000&width=435&lines=Press+Left+Shift+to+start+the+game;Press+Left+Ctrl+to+move+the+paddle+to+the+left;Press+Left+Alt+to+move+the+paddle+to+the+right)](https://git.io/typing-svg)
